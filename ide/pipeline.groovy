@@ -25,7 +25,7 @@ pipeline {
                 //         compressLog: true, 
                 //         to: "test@jenkins",
                 //         recipientProviders: [upstreamDevelopers(), requestor()]
-                }
+                // }
             }
         }
     }
